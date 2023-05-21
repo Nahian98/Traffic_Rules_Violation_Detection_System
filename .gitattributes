@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+PAPERS filter=lfs diff=lfs merge=lfs -text
+PAPERS.zip filter=lfs diff=lfs merge=lfs -text
+4_SPEED_DETECTION filter=lfs diff=lfs merge=lfs -text
+MAIN_DIRECTORY filter=lfs diff=lfs merge=lfs -text
+yolov5 filter=lfs diff=lfs merge=lfs -text
+3_MOTION_DETECTION filter=lfs diff=lfs merge=lfs -text
+TOOLS filter=lfs diff=lfs merge=lfs -text
+Videos filter=lfs diff=lfs merge=lfs -text
+2_LICENSE_PLATE_DETECTION filter=lfs diff=lfs merge=lfs -text
+SLIDES filter=lfs diff=lfs merge=lfs -text
+UPDATES filter=lfs diff=lfs merge=lfs -text
+1_VEHICLE_SELECT filter=lfs diff=lfs merge=lfs -text
+runs filter=lfs diff=lfs merge=lfs -text

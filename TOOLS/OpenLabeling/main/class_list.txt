@@ -1,0 +1,15 @@
+bicylce
+bike
+boat
+bus
+car
+cng
+easy-bike
+horse-cart
+launch
+leguna
+rickshaw
+tractor
+truck
+van
+wheelbarrow

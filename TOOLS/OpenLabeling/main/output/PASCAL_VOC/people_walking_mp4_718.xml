@@ -1,0 +1,14 @@
+<annotation>
+  <folder>input/people_walking_mp4</folder>
+  <filename>people_walking_mp4_718.jpg</filename>
+  <path>/home/akib/DEKACORE/Documents/RESEARH_WORK/traffic_rules_violation_detection/TOOLS/OpenLabeling/main/input/people_walking_mp4/people_walking_mp4_718.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>360</width>
+    <height>270</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>

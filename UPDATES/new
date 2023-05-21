@@ -1,0 +1,32 @@
+                   
+Traffic Rules Violation Detection using
+Deep Learning::
+
+In this paper, the two types of violation detection method is done. And the process of the whole method is to
+* Detect vehicle
+* Helmet classification
+* Crosswalk violation
+* License plate recognition
+The differences between our model with this paper's approach are that :
+On the paper, they used the YOLO model with pretrained weights. But where we trained our model with YOLOv5     architecture which is an updated version of YOLO, with Bangladeshi vehicle images. For this reason, the recognition of vehicles is much better than the pre-trained weights.
+     
+For license plate recognition in this paper, the model used is based on a YOLO-based trained model to detect license plates and then use OCR to detect letters from the license plate image. But we are using an OpenCV approach for detecting license plates by finding contours in the images. Our approach could be better than the trained model approach. We are currently working on a training model with license plate images to find out.     
+     
+This paper only proposed detecting two types of violations. Our proposed model will work on detecting 5 types of traffic rule violations.
+     
+We are planning to work on both helmet classification and crosswalk violation with a different approach using OpenCV.
+     
+Dataset used for testing is around 1000 images. We are planned to perform testing of more than 1000 images to find out a better evaluation of our method.
+
+
+
+
+
+Traffic Signal Violation Detection using Artificial
+Intelligence and Deep Learning::
+
+
+In this paper, a method of speed violation detection and lane jump detection is shown. The model used in this paper is YOLOv3.
+We are planned to implement the same features using the OpenCV approach by using a motion detection technique. Because of this approach, our model will be able to detect violation of the speed limit and lane jump in various vehicle classes.
+
+

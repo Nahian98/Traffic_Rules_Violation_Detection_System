@@ -1,0 +1,14 @@
+<annotation>
+  <folder>input</folder>
+  <filename>img_3.jpg</filename>
+  <path>/home/akib/DEKACORE/Documents/RESEARH_WORK/traffic_rules_violation_detection/TOOLS/OpenLabeling/main/input/img_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>907</width>
+    <height>597</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>
